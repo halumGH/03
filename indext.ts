@@ -1,1 +1,1 @@
-let a: string = "b";
+const _number: number = 5;
